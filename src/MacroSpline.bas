@@ -1,4 +1,4 @@
-Attribute VB_Name = "file_2_spline_tangency1"
+Attribute VB_Name = "MacroSpline"
 '**********************
 'Copyright(C) 2025 Xarial Pty Limited
 'Reference: https://www.codestack.net/solidworks-api/document/sketch/csv-create-spline/
