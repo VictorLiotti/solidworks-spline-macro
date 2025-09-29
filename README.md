@@ -1,6 +1,6 @@
 # SolidWorks-Spline-MACRO
 
-(Remember to put a banner here)
+![Project Banner](./assets/banner.png)
 
 
 ## Table of Contents
