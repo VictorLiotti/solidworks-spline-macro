@@ -118,8 +118,9 @@ In this case, `vPts = ReadFile(FILE_PATH, True)`.
 ## Demo
 
 <a href="./assets/demo.gif">
-  <img src="./assets/demo.gif" alt="Game demo" width="480" />
+  <img src="./assets/demo.gif" alt="macro demo" width="800" />
 </a>
+
 
 
 ## Next steps
