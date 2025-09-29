@@ -10,7 +10,7 @@
 - [Tech & Concepts](#tech--concepts)
 - [Repository structure](#repository-structure)
 - [How to install](#how-to-install)
-- [How to use(#how-to-use)
+- [How to use](#how-to-use)
 - [Demo](#demo)
 - [Next steps](#next-steps)
 - [License](#license)
@@ -77,13 +77,13 @@ cd solidworks-spline-macro
 1. Open or create a part file in SolidWorks.
 2. Open or create a sketch (must be active).
 3. Prepare a text file with point coordinates (e.g. **x y z and theta** per line)
- - The macro assumes a text file with no header
- - If you include a header, make sure to edit 'ReadFile()' argument in line 42:
-  - `vPts = ReadFile(FILE_PATH, True)` for a file **with header** 
-  - `vPts = ReadFile(FILE_PATH, False)` for a file **without header** 
+	- The macro assumes a text file with no header
+	- If you include a header, make sure to edit 'ReadFile()' argument in line 42:
+		- `vPts = ReadFile(FILE_PATH, True)` for a file **with header** 
+		- `vPts = ReadFile(FILE_PATH, False)` for a file **without header** 
 4. Run the macro (Tools > Macro > Run).
- - You might need to edit the macro to add your **input file path** in line 13:
-  - `Const FILE_PATH As String = "C:\Users\...\file.txt"`
+	- You might need to edit the macro to add your **input file path** in line 13:
+		- `Const FILE_PATH As String = "C:\Users\...\file.txt"`
 5. A spline will be generated through the given points.
 
 
