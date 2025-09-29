@@ -137,5 +137,6 @@ This project is MIT licensed.
 
 ## Author / Contact
 
-Xarial - [Github](https://github.com/xarial) - [Linkedin](https://www.linkedin.com/company/xarial/)
 Víctor L. - [Github](https://github.com/VictorLiotti) - [Linkedin](https://www.linkedin.com/in/victor-liotti)
+
+Xarial - [Github](https://github.com/xarial) - [Linkedin](https://www.linkedin.com/company/xarial/)
