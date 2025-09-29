@@ -52,6 +52,7 @@ solidworks-spline-macro/
 │   └── example_points.csv   # sample input file
 ├── assets/
 │   └── banner.png
+│   └── demo.gif
 ├── README.md
 └── LICENSE
 ```
