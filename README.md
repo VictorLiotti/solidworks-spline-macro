@@ -117,7 +117,9 @@ In this case, `vPts = ReadFile(FILE_PATH, True)`.
 
 ## Demo
 
-(Remember to put a short GIF/video of SolidWorks creating the spline here)
+<a href="./assets/demo.gif">
+  <img src="./assets/demo.gif" alt="Game demo" width="480" />
+</a>
 
 
 ## Next steps
